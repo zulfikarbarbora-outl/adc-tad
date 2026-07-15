@@ -1,0 +1,117 @@
+{
+  "library": "taiko-drums",
+  "displayName": "Taiko Drums",
+  "description": "Japanese taiko / festival drum hits and loops. Mix of Taira Komori's Japanese drum recordings (pack 13549, CC-BY) and Vanyamba's Taiko Drum Waveform Stereo C3 (pack 29493, CC0).",
+  "format": "opus-48k",
+  "sourceRepo": "https://freesound.org/people/Taira%20Komori/packs/13549/",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/taiko-drums-opus-48",
+  "branch": "main",
+  "fileCount": 8,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/taiko-drums-opus-48/main/",
+  "files": [
+    {
+      "file": "taiko_bass_drum.opus",
+      "name": "taiko_bass_drum",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/taiko-drums-opus-48/main/taiko_bass_drum.opus",
+      "size": 12086,
+      "freesoundId": 213321,
+      "duration": 2.2,
+      "rootNote": 36,
+      "license": "CC-BY-4.0",
+      "source": "Taira Komori japanese_drum pack"
+    },
+    {
+      "file": "taiko_small_drum_1.opus",
+      "name": "taiko_small_drum_1",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/taiko-drums-opus-48/main/taiko_small_drum_1.opus",
+      "size": 4718,
+      "freesoundId": 213322,
+      "duration": 0.9,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "Taira Komori japanese_drum pack"
+    },
+    {
+      "file": "taiko_drum_01.opus",
+      "name": "taiko_drum_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/taiko-drums-opus-48/main/taiko_drum_01.opus",
+      "size": 11156,
+      "freesoundId": 213320,
+      "duration": 2.2,
+      "rootNote": 48,
+      "license": "CC-BY-4.0",
+      "source": "Taira Komori japanese_drum pack"
+    },
+    {
+      "file": "taiko_drum_02.opus",
+      "name": "taiko_drum_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/taiko-drums-opus-48/main/taiko_drum_02.opus",
+      "size": 25815,
+      "freesoundId": 213319,
+      "duration": 5.2,
+      "rootNote": 48,
+      "license": "CC-BY-4.0",
+      "source": "Taira Komori japanese_drum pack"
+    },
+    {
+      "file": "japanese_drum_02.opus",
+      "name": "japanese_drum_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/taiko-drums-opus-48/main/japanese_drum_02.opus",
+      "size": 28795,
+      "freesoundId": 213323,
+      "duration": 5.4,
+      "rootNote": 48,
+      "license": "CC-BY-4.0",
+      "source": "Taira Komori japanese_drum pack"
+    },
+    {
+      "file": "japanese_drum_01.opus",
+      "name": "japanese_drum_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/taiko-drums-opus-48/main/japanese_drum_01.opus",
+      "size": 8147,
+      "freesoundId": 213324,
+      "duration": 1.5,
+      "rootNote": 48,
+      "license": "CC-BY-4.0",
+      "source": "Taira Komori japanese_drum pack"
+    },
+    {
+      "file": "japanese_drum_rhythm_1.opus",
+      "name": "japanese_drum_rhythm_1",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/taiko-drums-opus-48/main/japanese_drum_rhythm_1.opus",
+      "size": 119851,
+      "freesoundId": 213318,
+      "duration": 21.5,
+      "rootNote": 48,
+      "license": "CC-BY-4.0",
+      "source": "Taira Komori japanese_drum pack"
+    },
+    {
+      "file": "taiko_drum_waveform_C3.opus",
+      "name": "taiko_drum_waveform_C3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/taiko-drums-opus-48/main/taiko_drum_waveform_C3.opus",
+      "size": 164229,
+      "freesoundId": 652411,
+      "duration": 30.0,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "Vanyamba Waveform pack"
+    }
+  ],
+  "byNote": {
+    "36": [
+      "taiko_bass_drum.opus"
+    ],
+    "48": [
+      "taiko_drum_01.opus",
+      "taiko_drum_02.opus",
+      "japanese_drum_02.opus",
+      "japanese_drum_01.opus",
+      "japanese_drum_rhythm_1.opus",
+      "taiko_drum_waveform_C3.opus"
+    ],
+    "60": [
+      "taiko_small_drum_1.opus"
+    ]
+  }
+}
